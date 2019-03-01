@@ -1,0 +1,8 @@
+{
+  "name": "admin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wwl6324/adminReact.git",
+  "author": "wwl6324 <411404821@qq.com>",
+  "license": "MIT"
+}
